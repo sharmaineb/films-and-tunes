@@ -26,12 +26,6 @@
 	align-items: flex-start;
 }
 
-.PlacesList form input, .PlacesList form button {
-	padding: 1em;
-	margin: 0;
-	border: 1px solid;
-	font-size: 1rem;
-}
 
 .PlacesList form input {
 	flex: 1;
