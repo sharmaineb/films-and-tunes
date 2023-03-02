@@ -27,7 +27,6 @@ function List() {
 					placeholder="Search By Film Brand"
 					onChange={(e) => setQuery(e.target.value)}
 				/>
-				<button type="submit">Submit</button>
 			</form>
 			<div className="List">
         { spaces.length > 0 ? spaces : "No results match your search" } 

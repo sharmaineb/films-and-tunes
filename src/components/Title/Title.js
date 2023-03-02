@@ -22,4 +22,5 @@ function Title() {
   )
 }
 
-export default Title
+export default Title;
+
