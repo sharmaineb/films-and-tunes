@@ -1,0 +1,45 @@
+.PlacesList {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 2em;
+	max-width: 1200px;
+	margin: auto;
+	padding: 2em;
+}
+
+/* Small screens mobile */
+@media only screen and (max-width: 700px) {
+	.PlacesList {
+		grid-template-columns: 1fr;
+	}
+}
+
+/* smaller screens and tbalets */
+@media only screen and (max-width: 960px) {
+    .PlacesList {
+      grid-template-columns: 1fr 1fr;
+    }
+}
+
+.PlacesList form {
+	display: flex;
+	align-items: flex-start;
+}
+
+.PlacesList form input, .PlacesList form button {
+	padding: 1em;
+	margin: 0;
+	border: 1px solid;
+	font-size: 1rem;
+}
+
+.PlacesList form input {
+	flex: 1;
+	border-top-left-radius: 0.5em;
+	border-bottom-left-radius: 0.5em;
+}
+
+.PlacesList form button {
+	border-top-right-radius: 0.5em;
+	border-bottom-right-radius: 0.5em;
+}

@@ -1,8 +1,0 @@
-.About {
-    background-image: url('/public/images/background.jpg');
-    box-sizing: border-box;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-}

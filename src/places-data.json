@@ -1,0 +1,84 @@
+[
+    {
+       "title":"The Presidio",
+       "address":"1750 Lincoln Boulevard, San Francisco, CA",
+       "hours": "Mon - Fri 7am - 5:30pm",
+       "images":[
+          "presidio.jpg"
+       ]
+    },
+    {
+       "title":"The Palace of Fine Arts",
+       "address":"3601 Lyon Street, San Francisco, CA",
+       "hours": "Mon - Fri 7am - 5:30pm",
+       "images":[
+          "tpofa.jpg"
+       ]
+    },
+    {
+       "title":"Gray Whale Cove State Beach",
+       "address":"Half Moon Bay, CA",
+       "images":[
+          "beach.jpg"
+       ]
+    },
+    {
+       "title":"Ferry Building",
+       "address":"1 Ferry Building, San Francisco, CA",
+       "images":[
+          "ferry.jpg"
+       ]
+    },
+    {
+       "title":"Mare Island Brewery",
+       "address":"850 Nimitz Ave, Vallejo, CA",
+       "hours": "Mon - Fri 10am - 5pm",
+       "images":[
+          "mbrew.jpg"
+       ]
+    },
+    {
+       "title":"Sutro Baths",
+       "address":"1004 Point Lobos Ave, San Francisco, CA",
+       "hours": "Mon - Fri 9am - 6pm",
+       "images":[
+          "sutro.jpg"
+       ]
+    },
+    {
+       "title":"Japanese Tea Garden",
+       "address":"75 Hagiwara Tea Garden Dr, San Francisco, CA",
+       "hours": "Open at all times.",
+       "images":[
+          "tea.jpg"
+       ]
+    },
+    {
+       "title":"Fort Point National Historic Site",
+       "address":"201 Marine Dr, San Francisco, CA",
+       "images":[
+          "fp.jpg"
+       ]
+    },
+    {
+       "title":"Jack London Square",
+       "address":"472 Water St, Oakland, CA",
+       "images":[
+          "jack.jpg"
+       ]
+    },
+    {
+       "title":"Green Apple Books",
+       "address":"506 Clement St, San Francisco, CA",
+       "images":[
+          "green.jpg"
+       ]
+    },
+    {
+      "title":"Point Bonita Lighthouse",
+      "address":"San Francisco Bay entrance in the Marin Headlands, Sausalito, CA",
+      "images":[
+         "lighthouse.jpg"
+      ]
+   }
+  ]
