@@ -1,4 +1,3 @@
-import './FilmSpace.css'
 import { Link } from 'react-router-dom'
 
 function FilmSpace(props) {
