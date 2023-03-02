@@ -7,6 +7,7 @@ import List from './components/List/List';
 import reportWebVitals from './reportWebVitals';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Details from './components/Details/Details';
+import About from './components/About/About';
 
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
@@ -16,11 +17,11 @@ root.render(
     <Routes>
       <Route path='/' element={<App />}>
         <Route path='/' element={<List />} />
+        <Route path='about' element={<About />} />
         <Route path='/details/:id' element={<Details />} />
       </Route>
     </Routes>
   </Router>,
-  //document.getElementById('root')
 );
 
 // If you want to start measuring performance in your app, pass a function

@@ -44,6 +44,7 @@
   .Search form input {
     min-width: 100px;
       margin: 1.5em;
+      border-radius: 20px;
   }
   
   .Search form input {
