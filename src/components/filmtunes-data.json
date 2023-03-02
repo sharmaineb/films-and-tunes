@@ -1,0 +1,363 @@
+[
+    {
+       "title":"Kodak Portra 400",
+       "desc":"Portra has incredible exposure latitude meaning it does well with overexposure and it also pushes well. It has medium contrast and is known for its warn tones which make it ideal for portraiture.",
+       "website":"https://thedarkroom.com/film/portra-400/photo-gallery/",
+       "images":[
+          "portra400.jpg"
+       ],
+       "album":"Ctrl - SZA",
+       "song":"Song: Drew Barrymore",
+       "features": [
+        "szactrl.jpg"
+       ]
+    },
+    {
+       "title":"Kodak Portra 800",
+       "desc":"It has warm tones, very good exposure latitude, and while its grain is more noticeable it is still very pleasant looking. Its higher iso makes it ideal for lower light shooting.",
+       "images":[
+          "portra800.jpg"
+        ],
+        "album":"SOS - SZA",
+        "song":"Open Arms",
+        "features": [
+        "szasos.jpg"
+        ]
+    },
+    {
+       "title":"Cinestill 800t",
+       "desc":"This 800-speed tungsten-balanced color negative film is prepared from the same motion picture film stock used by top cinematographers around the world. This film is designed for difficult low-light tungsten situations and may be used in many different lighting situations to achieve a variety of looks.",
+       "images":[
+          "cinestill800.jpg"
+        ],
+        "album":"Anti - Rihanna",
+        "song":"Needed Me",
+        "features": [
+        "rihanna.jpg"
+        ]
+    },
+    {
+       "title":"FujiFilm Superia x-tra 400",
+       "desc":"FujiFilm Superia x-tra 400 has average exposure latitude and has the typical FujiFilm look cool magenta / greenish tones. It is 400 iso makes a versatile film that preforms well in daylight and lowlight.",
+       "images":[
+          "fujisuperia.jpg"
+        ],
+        "album":"Harry's House - Harry Styles",
+        "song":"Satellite",
+        "features": [
+        "harry.jpg"
+        ]
+    },
+    {
+       "title":"Lomography 800",
+       "desc":"This high speed color negative film is great for lowlight shooting but still preforms well for daylight shooting as well. Its grain is very noticeable but looks really good! It has mild saturation and contrast.",
+       "images":[
+          "lomography800.jpg"
+        ],
+        "album":"Wildheart - Miguel",
+        "song":"Waves (Tame Impala Remix)",
+        "features": [
+        "miguel.jpg"
+        ]
+    },
+    {
+       "title":"Lomography Lomochrome Turquoise",
+       "desc":"The color negative iso 100-400 film has an enchanting aesthetic which allows you to see the color spectrum like never before!",
+       "images":[
+          "lomochrome.jpg"
+        ],
+        "album":"DAMN. - Kendrick Lamar",
+        "song":"LOVE. (FEAT. ZACARI)",
+        "features": [
+        "kendrick.jpg"
+        ]
+    },
+    {
+       "title":"Kodak Gold 200",
+       "desc":"This color negative film has very fine grain, warm natural tones, medium contrast, and very good exposure latitude.",
+       "images":[
+          "gold200.jpg"
+        ],
+        "album":"That's The Way Of The World - Earth, Wind & Fire",
+        "song":"Reasons",
+        "features": [
+        "ewf.jpg"
+        ]
+    },
+    {
+       "title":"FujiFilm Provia 100f",
+       "desc":"Provia 100f is by far the most versatile. For being slide film it has decent exposure latitude, medium saturation and contrast. ",
+       "images":[
+          "fujiprovia100.jpg"
+        ],
+        "album":"Diamond Life - Sade",
+        "song":"Your Love Is King",
+        "features": [
+        "sade.jpg"
+        ]
+    },
+    {
+       "title":"Cinestill 400d",
+       "desc":"CineStill 400D is a fine grain film that delivers a soft color palette with natural saturated color and rich, warm skin tones. The film has a wide dynamic range, with a base sensitivity of ISO 400 but can be rated from 200 to 800, and it can be pushed up to 3200.",
+       "images":[
+          "cinestill400.jpg"
+        ],
+        "album":"blond - Frank Ocean",
+        "song":"Self Control",
+        "features": [
+        "frankocean.jpg"
+        ]
+    },
+    {
+       "title":"Kodak 400 T-Max B+W",
+       "desc":"This film is a fast iso B&W film it still has very fine grain. This film has incredible exposure, pushes & pulls well, and has great tones and medium contrast.",
+       "images":[
+          "kodaktmax.jpg"
+        ],
+        "album":"The Miseducation of Lauryn Hill - Lauryn Hill",
+        "song":"Tell Him (Live)",
+        "features": [
+        "laurynhill.jpg"
+        ]
+    },
+    {
+        "title":"Lomography Lomochrome Metropolis",
+        "desc":"Metropolis desaturates colors, mutes tones and adds a good amount of contrast. It has amazing exposure latitude witch allows you to shoot it from 100-400iso.",
+        "images":[
+           "metropolis.jpg"
+        ],
+        "album":"Currents - Tame Impala",
+        "song":"Yes I'm Changing",
+        "features": [
+        "tameimpala.jpg"
+        ]
+     },
+     {
+        "title":"FujiFilm Velvia 50",
+        "desc":"This film has really good color, super fine grain, and much better tonal transitions and exposure latitude than Velvia 100 which means to does better in contrasty light. When exposed properly is captures very true to life color.",
+        "images":[
+           "fujivelvia.jpg"
+        ],
+        "album":"Favourite Worst Nightmare - Arctic Monkeys",
+        "song":"Fluorescent Adolescent",
+        "features": [
+        "arctic.jpg"
+        ]
+     },
+     {
+        "title":"Lomography Babylon",
+        "desc":"It has very low contrast and , good exposure latitude, and very fine grain.  Its low contrast and very good exposure latitude produces good detail in shadows as well as highlights.",
+        "images":[
+           "babylon.jpg"
+        ],
+        "album":"An Evening with Silk Sonic - Bruno Mars, Anderson .Paak & Silk Sonic",
+        "song":"Skate",
+        "features": [
+        "silksonic.jpg"
+        ]
+     },
+     {
+        "title":"Kodak Professional Ektachrome E100 Film",
+        "desc":"Ektachrome is known for its beautiful color and like most slide film, has super fine grain, rich saturated color, and is great for daylight shooting.",
+        "images":[
+           "ektachrome.jpg"
+        ],
+        "album":"Beyoncé - Beyoncé",
+        "song":"Partition",
+        "features": [
+        "beyonce.jpg"
+        ]
+     },
+     {
+        "title":"Ilford Delta 3200",
+        "desc":"This high-speed iso film is ideal for low light shooting. It has very noticeable grain, especially in 35mm. This film has medium contrast, very subtle tones, and pretty good exposure latitude.",
+        "images":[
+           "ilford3200.jpg"
+        ],
+        "album":"Ugh, those feels again - Snoh Aalegra",
+        "song":"I Want You Around (Remix) [feat. 6LACK]",
+        "features": [
+        "snohaalegra.jpg"
+        ]
+     },
+     {
+       "title":"FujiFilm Neopan 100 Acros II",
+       "desc":"Neopan 100 Acros II is FujiFilm Professional's newest addition to its family of films. Neopan 100 Acros II is a medium speed, ultra-high-image quality black-and-white negative film and features the world's highest standard in grain quality among ISO 100 films.",
+       "images":[
+          "acros.jpg"
+       ],
+       "album":"This Is Why - Paramore",
+       "song":"Liar",
+       "features": [
+       "paramore.jpg"
+       ]
+    },
+    {
+       "title":"Kodak Ektar 100",
+       "desc":"Kodak Professional Ektar 100 is a daylight-balanced color negative film characterized by an ultra-vivid color palette, high saturation, and an extremely fine grain structure. Utilizing the cinematic VISION Film technology, this film's smooth grain profile pairs with a micro-structure optimized T-GRAIN emulsion to make it especially well-suited to scanning applications, and advanced development accelerators offer extended versatility when making enlargements.",
+       "images":[
+          "ektar100.jpg"
+       ],
+       "album":"Un Verano Sin Ti - Bad Bunny",
+       "song":"Después de la Playa",
+       "features": [
+       "badbunny.jpg"
+       ]
+    },
+    {
+       "title":"Kodak UltraMax 400",
+       "desc":"Kodak's GC/UltraMax 400 is a high-speed daylight-balanced color negative film offering a wide exposure latitude for greater versatility, as well as a fine grain structure with consistent and accurate colors.",
+       "images":[
+          "ultramax.jpg"
+       ],
+       "album":"Blood - Lianne La Havas",
+       "song":"Wonderful",
+       "features": [
+       "liannelahavas.jpg"
+       ]
+    },
+    {
+       "title":"Kodak ColorPlus",
+       "desc":"Kodak ColorPlus 200 is a versatile medium-speed daylight-balanced color negative film, characterized by its fine grain structure, high sharpness, and rich color saturation.",
+       "images":[
+          "colorplus.jpg"
+       ],
+       "album":"The Best of Manila Sound - Various Artists",
+       "song":"Sa Aking Pag-Iisa - Cinderella",
+       "features": [
+       "manilasound.jpg"
+       ]
+    },
+    {
+       "title":"PSYCH BLUES #6",
+       "desc":"Psych Blues #6 has multi-colored circles and windows of light, as well as full frames of color and areas with a slight color shift. The shapes of color will change positions from roll to roll, sometimes they will be directly in the middle of your frame, and sometimes they will creep in from the sides.",
+       "images":[
+          "psych.jpg"
+       ],
+       "album":"The Score - Fugees",
+       "song":"Killing Me Softly With His Song",
+       "features": [
+       "fugees.jpg"
+       ]
+    },
+    {
+       "title":"Kosmo Foto Agent Shadow",
+       "desc":"Kosmo Foto Agent Shadow is a 400-ISO panchromatic black-and-white film, perfect for all 35mm cameras. It is capable of being push processed up to ISO 6400 with appropriate changes to normal development.",
+       "images":[
+          "kosmo.jpg"
+       ],
+       "album":"Voodoo Child: The Jimi Hendrix Collection - Jimi Hendrix",
+       "song":"All Along the Watchtower",
+       "features": [
+       "hendrix.jpg"
+       ]
+    },
+    {
+       "title":"Film Photography Project Film Love",
+       "desc":"Film Love 200 from Film Photography Project is a medium-speed panchromatic film originally designed for use in surveillance cameras. It features a wide exposure latitude and is an excellent black and white film for everyday use.",
+       "images":[
+          "love.jpg"
+       ],
+       "album":"The Way It Is - Keyshia Cole",
+       "song":"Love",
+       "features": [
+       "keyshia.jpg"
+       ]
+    },
+    {
+       "title":"FujiFilm 200",
+       "desc":"For those looking for quality film with superb color reproduction, we offer the FUJIFILM brand. This product is available in an ISO speed of 200 sensitivity, providing everything from versatility and highly flexible film with enhanced color reproduction to sharpness and smooth, fine grain.",
+       "images":[
+          "fuji200.jpg"
+       ],
+       "album":"Underneath the Pine - Toro y Moi",
+       "song":"Divina",
+       "features": [
+       "toroymoi.jpg"
+       ]
+    },
+    {
+       "title":"Film Photography Project Dracula",
+       "desc":"Dracula 35 Black and White Negative Film from Film Photography Project is a panchromatic film coated with a transparent polyester base, which provides excellent dimensional stability.",
+       "images":[
+          "dracula.jpg"
+       ],
+       "album":"Stadium Arcadium - Red Hot Chili Peppers",
+       "song":"Snow (Hey Oh)",
+       "features": [
+       "rhcp.jpg"
+       ]
+    },
+    {
+       "title":"Film Photography Project Super Positive",
+       "desc":"The Super Positive Black and White Film from Film Photography Project is a positive film with a super-low speed of ISO 0.8. Adapted from dactylographic micro film, this film is ideal for long exposure shots in broad daylight and captures silky smooth images with exceptionally low grain.",
+       "images":[
+          "positive.jpg"
+       ],
+       "album":"Boys & Girls - Alabama Shakes",
+       "song":"I Found You",
+       "features": [
+       "alabamashakes.jpg"
+       ]
+    },
+    {
+       "title":"Kodak Professional Tri-X 400",
+       "desc":"Kodak's Professional Tri-X 400 Black and White Negative Film is a classic high-speed panchromatic film designed for a wide array of shooting conditions. Characterized by its fine grain quality, notable edge sharpness, and high resolving power, Tri-X 400 also exhibits a wide exposure latitude with consistent tonality.",
+       "images":[
+          "trix.jpg"
+       ],
+       "album":"It Never Rains in Southern California - Albert Hammond",
+       "song":"It Never Rains in Southern California",
+       "features": [
+       "hammond.jpg"
+       ]
+    },
+    {
+       "title":"Kodak Professional Portra 160",
+       "desc":"Kodak's Professional Portra 160 is a daylight-balanced color negative film offering a smooth and natural color palette that is balanced with medium saturation and low contrast for accurate skin tones and consistent results.",
+       "images":[
+          "portra160.jpg"
+       ],
+       "album":"Atlanta Millionaires Club - Faye Webster",
+       "song":"Kingston",
+       "features": [
+       "faye.jpg"
+       ]
+    },
+    {
+       "title":"Amber D400",
+       "desc":"Benefitting from the distinct qualities of a low-speed motion picture stock, this daylight-balanced film is well-suited for outdoor shooting in bright conditions, exhibits a nominal sensitivity of ISO 400/27°, and becomes a cool blue tone when shot in daylight.",
+       "images":[
+          "amber.jpg"
+       ],
+       "album":"Closer (feat. H.E.R.) - Saweetie",
+       "song":"Closer (feat. H.E.R.)",
+       "features": [
+       "saweetie.jpg"
+       ]
+    },
+    {
+       "title":"Kentmere Pan 400",
+       "desc":"Kentmere Pan 400 is a flexible and high-speed black and white negative film offering a nominal sensitivity of ISO 400/27°, making it suitable for use in available light and action photography, as well as general use. The film is characterized by a fine grain structure and good sharpness.",
+       "images":[
+          "kentmerepan.jpg"
+       ],
+       "album":"Special - Lizzo",
+       "song":"Special (feat. SZA)",
+       "features": [
+       "lizzo.jpg"
+       ]
+    },
+    {
+       "title":"Rollei Infrared 400",
+       "desc":"Rollei/Agfa's Infrared 400 is a unique infrared-sensitized panchromatic black and white negative film with a nominal sensitivity of ISO 400/27° without filtration.",
+       "images":[
+          "rollei.jpg"
+       ],
+       "album":"After Hours - The Weeknd",
+       "song":"In Your Eyes",
+       "features": [
+       "theweeknd.jpg"
+       ]
+    }
+]
