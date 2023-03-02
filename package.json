@@ -1,6 +1,6 @@
 {
+  "homepage": "http://sharmaineb.github.io/films-and-tunes",
   "name": "filmsandtunes",
-  "homepage": "https://sharmaineb.github.io/films-and-tunes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
