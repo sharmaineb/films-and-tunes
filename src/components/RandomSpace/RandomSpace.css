@@ -1,10 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
 .RandomSpace {
     border-radius: 11px;
     border-width: 2px;
     padding: 8px 6px;
-    color: rgb(184, 80, 12);
+    color: #000000;
     font-weight: bolder;
-    font-family:'Times New Roman', Times, serif;
-    margin: 2em;
+    margin: 1.5em;
     cursor: pointer;
+}
+
+* {
+    font-family: 'Poiret One';
+    font-size: large;
 }

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
 .List {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -6,6 +8,7 @@
     max-width: 1200px;
     margin: auto;
     padding: 1em 2em 2em 2em;
+    font-family: 'Poiret One';
   }
   
   /* smaller screens and tbalets */
@@ -40,10 +43,10 @@
   
   .Search form input {
     min-width: 100px;
-      margin-left: 2.5em;
+      margin: 1.5em;
   }
   
   .Search form input {
-      flex: 1;
+      flex: 0.5;
   }
   

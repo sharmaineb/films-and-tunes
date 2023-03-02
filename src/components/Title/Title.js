@@ -7,13 +7,11 @@ function Title() {
     <div className='Title'>
       <header>
         <h1>Film & Tunes</h1>
+        <div className='Title-Subtitle'>Grab Your Camera and a Pair of Headphones!</div>
         <div>
         <NavLink 
 	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
-	            to="/">List</NavLink>
-        {/* <NavLink 
-	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
-	            to="/about">About</NavLink> */}
+	            to="/">Films</NavLink>
         <RandomSpace />
         </div>
 

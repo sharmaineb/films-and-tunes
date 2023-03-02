@@ -24,7 +24,7 @@ function List() {
 			<form>
 				<input
 					value={query}
-					placeholder="Search By Film Brand"
+					placeholder="Search Film By Brand"
 					onChange={(e) => setQuery(e.target.value)}
 				/>
 			</form>
