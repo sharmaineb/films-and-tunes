@@ -29,7 +29,7 @@ function List() {
 				/>
 			</form>
 			<div className="List">
-        { spaces.length > 0 ? spaces : "No results match your search" } 
+        { spaces.length > 0 ? spaces : "No results. Please Search Again." } 
       </div>
     </div>
   )

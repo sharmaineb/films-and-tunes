@@ -8,6 +8,7 @@ import reportWebVitals from './reportWebVitals';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Details from './components/Details/Details';
 import About from './components/About/About';
+import PlacesList from './components/PlacesList/PlacesList';
 
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
@@ -19,6 +20,7 @@ root.render(
         <Route path='/' element={<List />} />
         <Route path='about' element={<About />} />
         <Route path='/details/:id' element={<Details />} />
+        <Route path='/places' element={<PlacesList />} />
       </Route>
     </Routes>
   </Router>,

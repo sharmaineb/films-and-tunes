@@ -23,15 +23,17 @@ function PlacesList() {
   })
 
   return (
-    <div className="PlacesList">
+    <div className="Search">
 			<form>
 				<input
 					value={query}
-					placeholder="search"
+					placeholder="Search"
 					onChange={(e) => setQuery(e.target.value)}
 				/>
 			</form>
-			{spaces}
+			<div className="List">
+        { spaces.length > 0 ? spaces : "No results. Please Search Again." } 
+      </div>
     </div>
   )
   
