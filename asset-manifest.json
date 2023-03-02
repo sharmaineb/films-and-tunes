@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/films-and-tunes/static/css/main.40b1a6cd.css",
-    "main.js": "/films-and-tunes/static/js/main.c8bc83ab.js",
+    "main.js": "/films-and-tunes/static/js/main.c38faf83.js",
     "static/js/787.866bce17.chunk.js": "/films-and-tunes/static/js/787.866bce17.chunk.js",
     "index.html": "/films-and-tunes/index.html",
     "main.40b1a6cd.css.map": "/films-and-tunes/static/css/main.40b1a6cd.css.map",
-    "main.c8bc83ab.js.map": "/films-and-tunes/static/js/main.c8bc83ab.js.map",
+    "main.c38faf83.js.map": "/films-and-tunes/static/js/main.c38faf83.js.map",
     "787.866bce17.chunk.js.map": "/films-and-tunes/static/js/787.866bce17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40b1a6cd.css",
-    "static/js/main.c8bc83ab.js"
+    "static/js/main.c38faf83.js"
   ]
 }
