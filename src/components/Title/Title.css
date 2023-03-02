@@ -1,13 +1,16 @@
 .Title {
     box-sizing: border-box;
     width: 100%;
-    display: flex;
-    justify-content: center;
     align-items: baseline;
     padding: 1em;
     margin-bottom: 2em;
-    background-color: rgb(0,40,86);
-    color: #f1f1f1;
+    background-color: rgb(145,148,127);
+    color: #dbb8b4;
+}
+
+.Title-Subtitle {
+    color: #dbb8b4;
+    font-weight: bolder;
 }
 
 .Title a {
@@ -21,6 +24,7 @@
 .Title .nav-link-active {
     display: flex;
     justify-content: center;
-    color: #f1f1f1;
-    border-bottom: 2px solid;
+    color: #dbb8b4;
+    border-bottom: 1px solid;
+    font-size: larger;
 }
