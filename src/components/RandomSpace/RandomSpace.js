@@ -10,7 +10,7 @@ function RandomSpace() {
     onClick={(e) => {
 			const id = Math.floor(Math.random() * data.length)
 			navigate(`/details/${id}`)
-		}}>Show me a random space</button>
+		}}>RANDOMIZE</button>
   )
 }
 

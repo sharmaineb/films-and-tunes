@@ -11,9 +11,9 @@ function Title() {
         <NavLink 
 	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
 	            to="/">List</NavLink>
-        <NavLink 
+        {/* <NavLink 
 	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
-	            to="/about">About</NavLink>
+	            to="/about">About</NavLink> */}
         <RandomSpace />
         </div>
 

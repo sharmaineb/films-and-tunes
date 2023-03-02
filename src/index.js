@@ -4,7 +4,6 @@ import { createRoot } from 'react-dom/client'
 import './index.css';
 import App from './components/App';
 import List from './components/List/List';
-// import About from './components/About/About';
 import reportWebVitals from './reportWebVitals';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Details from './components/Details/Details';
@@ -17,7 +16,6 @@ root.render(
     <Routes>
       <Route path='/' element={<App />}>
         <Route path='/' element={<List />} />
-        {/* <Route path='about' element={<About />} /> */}
         <Route path='/details/:id' element={<Details />} />
       </Route>
     </Routes>

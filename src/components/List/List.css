@@ -1,0 +1,53 @@
+.List {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 2em;
+    width: calc(100% - 80px);
+    max-width: 1200px;
+    margin: auto;
+    padding: 1em 2em 2em 2em;
+  }
+  
+  /* smaller screens and tbalets */
+  @media only screen and (max-width: 960px) {
+    .List {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  
+  /* Small screens mobile */
+  @media only screen and (max-width: 700px) {
+      .List {
+          grid-template-columns: 1fr;
+      }
+      .Search {
+      flex: 1;
+      margin: auto;
+    }
+  }
+  
+  .Search form {
+      display: flex;
+      align-items: center;
+  }
+  
+  .Search form input, .Search form button {
+      padding: 1em;
+      margin: 0;
+      border: 1px solid;
+      font-size: 1rem;
+  }
+  
+  .Search form input {
+    min-width: 100px;
+      margin-left: 2.5em;
+  }
+  
+  .Search form button {
+      margin-right: 2.5em;
+  }
+  
+  .Search form input {
+      flex: 1;
+  }
+  
